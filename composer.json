@@ -1,8 +1,8 @@
 {
-  "name": "igloonet/mailkit-api",
+  "name": "cizekm/mailkit-api",
   "type": "library",
   "description": "Mailkit api client library",
-  "keywords": ["igloonet", "mailkit", "mail"],
+  "keywords": ["mailkit", "mail"],
   "license": ["BSD-3-Clause"],
   "authors": [
     {
